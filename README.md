@@ -1,4 +1,5 @@
-## Hi there 👋
+# Salut la compagnie 👋
+# Bienvenue sur mon profil **Eric Gouife**
 
 <!--
 **Lenrics-01/Lenrics-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
