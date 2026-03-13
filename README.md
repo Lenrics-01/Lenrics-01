@@ -1,5 +1,26 @@
 # Salut la compagnie 👋
-# Bienvenue sur mon profil **Eric Gouife**
+## Bienvenue sur mon profil **Eric Gouife**                                                                         |
+                                                                                                                    |
+Je suis un jeune developpeur en Python et les avis populaire m'interesse                                            |
+Faut s'interesser à la culture des fois.                                                                            | 
+                                                                                                                    |  
+                                                                                                                    |
+                                                                                                                    | 
+                                                                                                                    
+                                          ,w.
+      ,YWMMw  ,M  Wm.
+     _.---.._   Wm   W.
+   .'.--.   '-.  WMm  Wm
+  / /    \     \  WMM  WM
+ | |  o o |     |  WMM  WM
+ | |  \_/ |     |   WMM WM
+ |  \     /    /     WMMMM
+  \  '-.-'   .'        WMM
+   '-.___.-'           WM
+     /|  |\           WM
+    /_|__|_\        _WM_
+      /  \          WMW
+     /____\        WMW
 
 <!--
 **Lenrics-01/Lenrics-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
