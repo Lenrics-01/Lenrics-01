@@ -1,26 +1,14 @@
-                                       ,w.
-      ,YWMMw  ,M  Wm.
-     _.---.._   Wm   W.
-   .'.--.   '-.  WMm  Wm
-  / /    \     \  WMM  WM
- | |  o o |     |  WMM  WM
- | |  \_/ |     |   WMM WM
- |  \     /    /     WMMMM
-  \  '-.-'   .'        WMM
-   '-.___.-'           WM
-     /|  |\           WM
-    /_|__|_\        _WM_
-      /  \          WMW
-     /____\        WMW
-
-
-
-
-
-
-
-
-
+# Mon Projet 🦁
+        ⣿⣿⣿⣿⣿⣿⣿
+    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+ ⣿⣿⣿   ⣿⣿⣿   ⣿⣿⣿
+⣿⣿⣿     ⣿     ⣿⣿⣿
+⣿⣿⣿    ───    ⣿⣿⣿
+ ⣿⣿⣿   \___/   ⣿⣿⣿
+  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+    ⣿⣿⣿⣿⣿⣿⣿
+       ⣿⣿⣿
 
 # Salut la compagnie 👋
 ## Bienvenue sur mon profil **Eric Gouife**                                                                         |
