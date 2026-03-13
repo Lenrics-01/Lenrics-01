@@ -1,13 +1,4 @@
-# Salut la compagnie 👋
-## Bienvenue sur mon profil **Eric Gouife**                                                                         |
-                                                                                                                    |
-Je suis un jeune developpeur en Python et les avis populaire m'interesse                                            |
-Faut s'interesser à la culture des fois.                                                                            | 
-                                                                                                                    |  
-                                                                                                                    |
-                                                                                                                    | 
-                                                                                                                    
-                                          ,w.
+                                       ,w.
       ,YWMMw  ,M  Wm.
      _.---.._   Wm   W.
    .'.--.   '-.  WMm  Wm
@@ -21,6 +12,23 @@ Faut s'interesser à la culture des fois.                                       
     /_|__|_\        _WM_
       /  \          WMW
      /____\        WMW
+
+
+
+
+
+
+
+
+
+
+# Salut la compagnie 👋
+## Bienvenue sur mon profil **Eric Gouife**                                                                         |
+                                                                                                                    |
+Je suis un jeune developpeur en Python et les avis populaire m'interesse                                            |
+Faut s'interesser à la culture des fois.                                                                            | 
+                                                                                                                    |  
+                                                                                                                    |
 
 <!--
 **Lenrics-01/Lenrics-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
